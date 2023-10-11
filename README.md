@@ -1,16 +1,5 @@
-# README.md
-<h1 align="center">Hi 👋, I'm Carlota Juncosa</h1>
-<h3 align="center">Developer junior</h3>
-
-<div align="center">
-
- 🌱 I'm currently working at RSM.
-
- 📂 All my projects [here](https://github.com/carlotajuncosa?tab=repositories) 
-
- 📫 How to reach me **carlota.juncosa@gmail.com**
-  
-</div>  
+<h1 align="center">Hello, stranger!</h1>
+<p align="center">Developer junior | I'm currently working at RSM. | All my projects [here](https://github.com/carlotajuncosa?tab=repositories) | How to reach me **carlota.juncosa@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
