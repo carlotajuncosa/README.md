@@ -1,5 +1,5 @@
 # README.md
-<h1 align="center">Hi 👋, I'm Carlota --juncosa</h1>
+<h1 align="center">Hi 👋, I'm Carlota Juncosa</h1>
 <h3 align="center">Developer junior</h3>
 <div align="center">
 <a href="https://github.com/carlotajuncosa?tab=repositories"><img src="gif.svg"></a>
