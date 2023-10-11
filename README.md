@@ -7,7 +7,7 @@
 ㅤ
 <div align="center">
 
- 🌱 I'm currently working at RSM and learning **HTML, CSS, JAVASCRIPT** 
+ 🌱 I'm currently working at RSM.
 
  📂 All my projects [here](https://github.com/carlotajuncosa?tab=repositories) 
 
